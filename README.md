@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sahal Palayat and I'm a Web Developer, from Thalassery</p>
+<p align="left">My name is Sahal Palayat and I'm a Web Developer, from Ernakulam</p>
 
 ###
 
@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...Started coding in june 2023, and it's been a journey of creating, breaking, and fixing bugs ever since!<br>📚 I'm currently learning ...<br>🎯 Goals: ...Contribute to open-source projects.
+Build innovative web applications.
+Master advanced JavaScript frameworks.<br>🎲 Fun fact: ...</p>
 
 ###
 
@@ -31,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
